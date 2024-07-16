@@ -1,0 +1,202 @@
+[
+    {
+        "id": "J11",
+        "titulo": "Jujutsu Kaisen #16",
+        "imagen": "./img/Mangas/J11.jpg",
+        "descripcion": "Los espíritus malditos atrapan a Gojo en el andén de B5F con incontables rehenes. En medio de la batalla, Geto se aparece ante él y activa el objeto maldito Gokumonkyo para sellarlo. Por otro lado, un aliado inesperado se pone en contacto con Itadori y le comunica el plan de Geto. Itadorilogra reunirse con Nanami, Ino y Fushiguro, e idean un plan para derribar la cortina que no les permite ir hacia Gojo.",
+        "categoria": {
+            "nombre": "Mangas",
+            "id": "mangas"
+        },
+        "precio": 120
+    },
+    {
+        "id": "F1",
+        "titulo": "Frieren #1",
+        "imagen": "./img/Mangas/Frieren 1.jpg",
+        "descripcion": "Luego de derrotar al Rey Demonio y acabar con la amenaza, el grupo de héroes conformado por Himmel, Eisen, Heiter y Frieren regresa a la capital para continuar con sus vidas. Sin embargo, la naturaleza casi inmortal de Frieren la hace tomar un rumbo distinto al de sus compañeros y decide emprender un viaje para conocer más acerca de la naturaleza humana. Esta es la vida de los héroes después de la fantasía.",
+        "categoria": {
+            "nombre": "Mangas",
+            "id": "mangas"
+        },
+        "precio": 120
+    },
+    {
+        "id": "CM12",
+        "titulo": "ChainSawman #12",
+        "imagen": "img/Mangas/chainsawman 12.jpg",
+        "descripcion": "Asa Mitaka, una chica de preparatoria que no encaja en la escuela, odia a los demonios porque sus padres fueron asesinados por ellos. Un día está a punto de ser víctima de una tragedia, pero un pacto con la misteriosa Yoru, el Demonio de la Guerra, la salva. Sin embargo, esta le pide que coopere con ella para encontrar a Chainsaw Man, quien al parecer va a la misma escuela que Asa.",
+        "categoria": {
+            "nombre": "Mangas",
+            "id": "mangas"
+        },
+        "precio": 150
+    },
+    {
+        "id": "B1",
+        "titulo": "Berserker #1",
+        "imagen": "./img/Mangas/berserker1.jpg",
+        "descripcion":"Un hombre completamente vestido de negro que se hace llamar Guts, que tiene una mano artificial de hierro duro y que carga una espada gigantesca que supera su estatura. En el lugar al cual se dirige llueve sangre y hay montañas de cadáveres apilados. Puck, un elfo que se mantiene a su lado desde que Guts le salvó la vida, quedó impresionado por su increíble fuerza, aunque a la vez le causa temor lo violento que es el mundo en el que él vive.",
+        "categoria": {
+            "nombre": "Mangas",
+            "id": "mangas"
+        },
+        "precio": 120
+    },
+    {
+        "id": "k2",
+        "titulo": "Konosuba #2",
+        "imagen": "./img/Mangas/Konosuba 2.jpg",
+        "descripcion":"Konosuba es un manga de comedia y fantasía que sigue las desventuras de un grupo de personajes excéntricos en un mundo de juego de rol.",
+        "categoria": {
+            "nombre": "Mangas",
+            "id": "mangas"
+        },
+        "precio": 150
+    },
+    {
+        "id": "Sp1",
+        "titulo": "Spiderman",
+        "imagen": "./img/ComicsMarvel/Spiderman.jpg",
+        "descripcion":"Spider-Man es un superhéroe icónico de Marvel Comics, conocido por sus habilidades arácnidas y su lucha contra el crimen en la ciudad de Nueva York. ",
+        "categoria": {
+            "nombre": "Comics Marvel",
+            "id": "comicsM"
+        },
+        "precio": 120
+    },
+    {
+        "id": "F4",
+        "titulo": "4 Fantasticos",
+        "imagen": "./img/ComicsMarvel/4 fantasticos.jpg",
+        "descripcion":" Los Cuatro Fantásticos son un equipo de superhéroes de Marvel Comics, formado por Mr. Fantástico, la Mujer Invisible, la Antorcha Humana y La Cosa. Obtuvieron sus poderes después de ser expuestos a radiación cósmica durante un viaje espacial. Juntos, luchan contra amenazas tanto terrestres como extraterrestres mientras exploran los límites del universo. ",
+        "categoria": {
+            "nombre": "Comics Marvel",
+            "id": "comicsM"
+        },
+        "precio": 150
+    },
+    {
+        "id": "DS",
+        "titulo": "Dr Strange",
+        "imagen": "./img/ComicsMarvel/strange.jpg",
+        "descripcion":"Doctor Strange es un hechicero y maestro de las artes místicas en el universo de Marvel Comics. Anteriormente un cirujano talentoso, Stephen Strange perdió el uso de sus manos en un accidente, lo que lo llevó a buscar la ayuda del Anciano, un hechicero poderoso. Aprendió las artes místicas y se convirtió en el Hechicero Supremo, encargado de proteger la realidad de amenazas místicas y cósmicas. Utiliza artefactos mágicos y conjuros para enfrentar a enemigos que desafían la comprensión convencional. ",
+        "categoria": {
+            "nombre": "Comics Marvel",
+            "id": "comicsM"
+        },
+        "precio": 200
+    },
+    {
+        "id": "IW",
+        "titulo": "Infinity war",
+        "imagen": "./img/ComicsMarvel/Infinity war.jpg",
+        "descripcion":"Infinity War es un evento de cómics de Marvel que involucra una lucha cósmica entre héroes y villanos por el control de las Infinity Gems (Gemas del Infinito). Escrito por Jim Starlin y lanzado en 1992, este crossover épico presenta a Thanos, quien busca el poder absoluto al reunir las Gemas del Infinito en el Guantelete del Infinito. Los héroes de la Tierra, incluidos los Vengadores, los Cuatro Fantásticos y los X-Men, se unen para detenerlo, pero enfrentan desafíos monumentales y traiciones sorprendentes.",
+        "categoria": {
+            "nombre": "Comics Marvel",
+            "id": "comicsM"
+        },
+        "precio": 150
+    },
+    {
+        "id": "IG",
+        "titulo": "Infinity Gauntler",
+        "imagen": "./img/ComicsMarvel/Inifity Gauntler.webp",
+        "descripcion":"Infinity Gauntlet es una saga de cómics de Marvel que sigue a Thanos después de que adquiere el Guantelete del Infinito, incrustado con las seis Gemas del Infinito. Con el poder absoluto en su mano, Thanos busca impresionar a la entidad cósmica de la Muerte al erradicar la mitad de la vida en el universo. Los héroes más poderosos de la Tierra, incluidos los Vengadores, los Cuatro Fantásticos y los X-Men, se unen para enfrentarlo en una batalla épica.",
+        "categoria": {
+            "nombre": "Comics Marvel",
+            "id": "comicsM"
+        },
+        "precio": 120
+    },
+    {
+        "id": "IM",
+        "titulo": "Iron man",
+        "imagen": "./img/ComicsMarvel/iron man.jpg",
+        "descripcion":"Iron Man es un superhéroe de Marvel Comics, alter ego de Tony Stark, un genio inventor, empresario multimillonario y filántropo. Después de ser herido y capturado por terroristas, Stark crea una armadura tecnológicamente avanzada para escapar. Esta armadura se convierte en su identidad como Iron Man, un defensor de la justicia y la paz mundial. A lo largo de los años, Stark ha luchado contra una variedad de villanos y ha sido un miembro destacado de los Vengadores.",
+        "categoria": {
+            "nombre": "Comics Marvel",
+            "id": "comicsM"
+        },
+        "precio": 100
+    },
+    {
+        "id": "SW",
+        "titulo": "Scarlett witch.jpg",
+        "imagen": "./img/ComicsMarvel/Scarlett witch.jpg",
+        "descripcion":"Scarlet Witch, también conocida como Wanda Maximoff, es una superheroína de Marvel Comics con habilidades de manipulación de la realidad y la probabilidad. Originalmente presentada como una villana, Scarlet Witch es miembro de los Vengadores y ha luchado tanto contra el crimen como junto a ellos. Su historia está marcada por tragedia y conflicto, incluida la pérdida de su familia y su lucha con el control de sus poderes.",
+        "categoria": {
+            "nombre": "Comics Marvel",
+            "id": "comicsM"
+        },
+        "precio": 100
+    },
+    {
+        "id": "T",
+        "titulo": "Tarot",
+        "imagen": "./img/ComicsMarvel/Tarot.jpg",
+        "descripcion":"Tarot es un cómic de fantasía urbana creado por Jim Balent que sigue las aventuras de Tarot, una bruja y guerrera que protege la ciudad de Salem. Junto con su hermana y sus compañeros, Tarot lucha contra criaturas sobrenaturales mientras explora su propio legado mágico y su conexión con el mundo espiritual. El cómic destaca por su estilo artístico distintivo y sus tramas llenas de acción y misticismo. ",
+        "categoria": {
+            "nombre": "Comics Marvel",
+            "id": "comicsM"
+        },
+        "precio": 200
+    },
+    {
+        "id": "Batman",
+        "titulo": "Batman",
+        "imagen": "./img/ComicsDC/batman.jpg",
+        "descripcion":"Batman es un icónico superhéroe de DC Comics, creado por Bob Kane y Bill Finger. Su verdadero nombre es Bruce Wayne, un multimillonario filántropo de Ciudad Gótica. Después de presenciar el asesinato de sus padres cuando era niño, juró vengar su muerte combatiendo el crimen. A diferencia de otros superhéroes, Batman no tiene superpoderes; en cambio, confía en su intelecto, entrenamiento físico y recursos tecnológicos para luchar contra el crimen.",
+        "categoria": {
+            "nombre": "Comics DC",
+            "id": "comicsDC"
+        },
+        "precio": 120
+    },
+    {
+        "id": "Flash",
+        "titulo": "Flash",
+        "imagen": "./img/ComicsDC/flash.jpg",
+        "descripcion":"Flashpoint es un evento de cómics de DC Comics que presenta una realidad alternativa en la que Barry Allen, también conocido como Flash, despierta en un mundo muy diferente al que conoce. En esta línea de tiempo alternativa, Aquaman y Wonder Woman están en medio de una guerra global, Superman está prisionero y Batman es Thomas Wayne, el padre de Bruce Wayne, quien se convierte en Batman después de que Bruce es asesinado.",
+        "categoria": {
+            "nombre": "Comics DC",
+            "id": "comicsDC"
+        },
+        "precio": 150
+    },
+    {
+        "id": "Killing Joke",
+        "titulo": "Batman: The Killing joke",
+        "imagen": "./img/ComicsDC/kil joke.jpg",
+        "descripcion":"The Killing Joke es una novela gráfica de Batman escrita por Alan Moore e ilustrada por Brian Bolland. La historia explora la relación entre Batman y el Joker, centrándose en un intento del Joker de demostrar que cualquiera puede volverse loco después de un mal día. El Joker dispara y paraliza a Barbara Gordon, alias Batgirl, para torturar a su padre, el Comisionado Gordon. Batman se enfrenta al Joker en un enfrentamiento psicológico mientras busca detener su ola de violencia",
+        "categoria": {
+            "nombre": "Comics DC",
+            "id": "comicsDC"
+        },
+        "precio": 150
+    },
+    {
+        "id": "Linterna verde",
+        "titulo": "Linterna verde",
+        "imagen": "./img/ComicsDC/linterna.jpg",
+        "descripcion":"Linterna Verde es el título que se le da a varios personajes ficticios en el universo de DC Comics, cada uno perteneciente a una organización conocida como los Green Lantern Corps. Estos personajes son seleccionados por la fuerza de voluntad y la capacidad de superar el miedo para portar un anillo de poder, que les otorga la capacidad de crear construcciones de energía pura limitadas solo por su imaginación y fuerza de voluntad. ",
+        "categoria": {
+            "nombre": "Comics DC",
+            "id": "comicsDC"
+        },
+        "precio": 120
+    },
+    {
+        "id": "Superman",
+        "titulo": "Superman",
+        "imagen": "./img/ComicsDC/superman.jpg",
+        "descripcion":"Superman es un superhéroe emblemático de DC Comics, creado por Jerry Siegel y Joe Shuster. Su verdadero nombre es Kal-El y es originario del planeta Krypton. Enviado a la Tierra por sus padres poco antes de la destrucción de su planeta natal, Kal-El es criado como Clark Kent por Jonathan y Martha Kent en Smallville, Kansas. A medida que crece, descubre que tiene habilidades sobrehumanas gracias a la radiación solar amarilla de la Tierra, incluyendo fuerza, velocidad, visión de rayos X y vuelo.",
+        "categoria": {
+            "nombre": "Comics DC",
+            "id": "comicsDC"
+        },
+        "precio": 120
+    }
+]
+
+
